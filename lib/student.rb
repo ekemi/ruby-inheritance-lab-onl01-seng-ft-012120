@@ -1,5 +1,5 @@
 class Student< User
 
-   def initialize()
+   def initialize(knol)
 
 end
